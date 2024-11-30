@@ -1,8 +1,8 @@
 # ITMD 504 Summative Course Assessment - OpenAI Image Generator
 
 ## Deployment
-### Frontend: [Check it out]([https://unrivaled-pegasus-62f076.netlify.app/](https://taupe-shortbread-061996.netlify.app/))
-### Backend: [Check it out]([https://unrivaled-pegasus-62f076.netlify.app/](https://itmd-504-summative-course-assessment.onrender.com/))
+### Frontend: [Check it out](https://taupe-shortbread-061996.netlify.app/)
+### Backend: [Check it out](https://itmd-504-summative-course-assessment.onrender.com/)
 
 ## Overview
 ### Idea
